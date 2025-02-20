@@ -1,6 +1,6 @@
 
 # Ask the user for a word
-word = input("Enter a word: ")
+word = input("ecrivez un mot: ")
 
 # Create a dictionary to store the indices of each letter
 letter_indices = {}
