@@ -20,4 +20,3 @@ plt.title('Line Plot of y = x^2')
 # Afficher le plot
 plt.show()
 
-Build a FacetGrid using the titanic dataset to compare survival rates by age across class and gender.
